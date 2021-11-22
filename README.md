@@ -10,3 +10,5 @@ project so that is easier to build from the ground up.
 While making this game, I learned how difficult it can be to balance the game for the player -
 this shows you must always put yourself in the shoes of the customer when you develop! Always
 consider that point of view during every step.
+
+main() is located in TestBattle.cpp
